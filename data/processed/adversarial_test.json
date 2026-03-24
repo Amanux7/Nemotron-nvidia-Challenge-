@@ -1,0 +1,202 @@
+[
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 0 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_0"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 1 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_1"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 2 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_2"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 3 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_3"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 4 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_4"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 5 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_5"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 6 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_6"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 7 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_7"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 8 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_8"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 9 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_9"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 10 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_10"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 11 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_11"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 12 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_12"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 13 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_13"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 14 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_14"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 15 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_15"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 16 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_16"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 17 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_17"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 18 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_18"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 19 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_19"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 20 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_20"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 21 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_21"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 22 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_22"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 23 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_23"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 24 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_24"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 25 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_25"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 26 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_26"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 27 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_27"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 28 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_28"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 29 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_29"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 30 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_30"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 31 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_31"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 32 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_32"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 33 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_33"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 34 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_34"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 35 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_35"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 36 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_36"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 37 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_37"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 38 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_38"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 39 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_39"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 40 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_40"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 41 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_41"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 42 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_42"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 43 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_43"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 44 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_44"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 45 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_45"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 46 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_46"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 47 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_47"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 48 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_48"
+  },
+  {
+    "prompt": "COMPOUND NOISE EDGECASE: Logical loop 49 is fundamentally unstable. Discard step 1 entirely, recursively trace step 2 outwards ignoring text format noise.",
+    "answer": "ADV_49"
+  }
+]

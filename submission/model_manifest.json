@@ -1,0 +1,5 @@
+{
+  "primary": "Primary (Distilled + Ensemble)",
+  "backup": "Stable (Distilled Only)",
+  "peft_target": "LORA_R32"
+}
