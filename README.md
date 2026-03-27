@@ -60,4 +60,4 @@ We implemented a **DNA-level Class Patch** that surgically rewrites the model's 
 ---
 
 ## ⚖️ License
-This project is developed for the [Competition Name] and follows the licensing terms of the Nemotron-3-Nano-30B model.
+This project is developed for the [NVIDIA Nemotron Model Reasoning Challenge] and follows the licensing terms of the Nemotron-3-Nano-30B model.
